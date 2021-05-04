@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Barbell Wrist Curl",
+    "exercise_id": "758",
+    "weekdays": ["M", "Th"],
+    "user_id": 3
+  },
+  {
+    "title": "Auf Rolle liegend",
+    "exercise_id": "259",
+    "weekdays": ["M", "Th"],
+    "user_id": 3
+  }
+]
+
